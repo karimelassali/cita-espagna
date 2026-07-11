@@ -1,0 +1,6 @@
+{
+  "name": "Sede Alerta",
+  "description": "Spanish Immigration & Public Administration Appointment Tracker with Secure Booking Simulation & Email Alerts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
